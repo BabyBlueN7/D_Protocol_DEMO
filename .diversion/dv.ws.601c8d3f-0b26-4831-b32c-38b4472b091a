@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.601c8d3f-0b26-4831-b32c-38b4472b091a",
+  "RepoID": "dv.repo.36a139b9-52c1-4deb-9fd2-d226905b826c",
+  "Path": "D:\\Game Development\\Unreal\\D_Protocol_DEMO",
+  "AccountID": "GitHub_129911980",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.6",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "DirectiveProtocol",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}

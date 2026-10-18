@@ -1,0 +1,81 @@
+# dv-ignore-version: 1
+# =========================================================================
+# Unreal Engine 5.5.4 Master Diversion Ignore File
+# Includes Git defaults + Custom Dual-PC Mouse Sens & Graphics Overrides
+# =========================================================================
+
+# === My Personal Dual-PC Local Overrides (CRUCIAL)
+# This ignores your 0.18859 mouse multiplier and Medium graphics presets
+Config/DefaultEngineLocal.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# === Core Unreal Engine Temporary Folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Intermediate/*
+
+# === IDE, Build, and Temporary Folders
+Build/
+.vs/
+.idea/
+.vscode/
+WritePermissions.*.temp
+
+# === Compiled Objects, Binary Binaries, and Executables
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.ipa
+
+# === Auto-Generated Project and Solution Files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+*.ncb
+*.booc
+*.svclog
+*.pdb
+*.opendb
+Source/**/*-gen.*
+
+# === Precompiled Data and Assets
+SourceArt/**/*.png
+SourceArt/**/*.tga
+*_BuiltData.uasset
+
+# === Whitelist Rules for Build Configurations
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# === Whitelist Rule for Project Assets
+!Content/**
+
+# === General Version Control Caches & Logs
+.DS_Store
+*~
+*.swp
+.git/
+*.log
