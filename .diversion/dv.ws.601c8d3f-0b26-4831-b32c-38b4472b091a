@@ -5,11 +5,10 @@
   "AccountID": "GitHub_129911980",
   "BranchID": "dv.branch.1",
   "BranchName": "main",
-  "CommitID": "dv.commit.6",
+  "CommitID": "dv.commit.9",
   "Paused": false,
   "ShouldDownload": false,
   "RepoName": "DirectiveProtocol",
   "ReadOnly": false,
-  "DigestMethod": "sha1",
-  "OrganizationTier": "UNKNOWN"
+  "DigestMethod": "sha1"
 }
