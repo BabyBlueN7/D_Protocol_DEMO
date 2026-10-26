@@ -16,7 +16,8 @@
 				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Interaction/BPI_Interactable.uasset",
 				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Blueprints/BP_GrabbableCube.uasset",
 				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/UI/WBP_InteractionPrompt.uasset",
-				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FF/LW5QCNCO6HFJ2H7Z2ZF06S.uasset"
+				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FF/LW5QCNCO6HFJ2H7Z2ZF06S.uasset",
+				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Interaction/Activators/BP_Activator_Plate.uasset"
 			]
 		}
 	]
