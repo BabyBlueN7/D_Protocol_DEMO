@@ -21,7 +21,9 @@
 				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Interaction/Activators/BP_Activator_Button.uasset",
 				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Interaction/Activatables/BP_Activatable_Light.uasset",
 				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Maps/TEST_BB.umap",
-				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/Fab/SciFiDoors/Materials/Door_1.uasset"
+				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/Fab/SciFiDoors/Materials/Door_1.uasset",
+				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Interaction/Activatables/BP_Enter_Door.uasset",
+				"D:/Game Development/Unreal/D_Protocol_DEMO/Content/FirstPerson/Interaction/Activatables/bp_child.uasset"
 			]
 		}
 	]
